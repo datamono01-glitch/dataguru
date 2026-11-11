@@ -1,0 +1,8 @@
+{
+  "name": "Administrasi Guru",
+  "description": "Aplikasi Administrasi Guru Lengkap Berbasis AI untuk Kurikulum Merdeka \u0026 K13: Generator Modul Ajar, ATP, Prota, Prosem, KKTP, LKPD, Presensi, Jurnal Mengajar, dan Leger Nilai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
